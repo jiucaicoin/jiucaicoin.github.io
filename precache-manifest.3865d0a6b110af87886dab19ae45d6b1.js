@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "17b05c55f098d4298650",
+    "revision": "09bbe9511062da554cb2",
     "url": "/static/css/main.02867c7d.chunk.css"
   },
   {
-    "revision": "17b05c55f098d4298650",
-    "url": "/static/js/main.17b05c55.chunk.js"
+    "revision": "09bbe9511062da554cb2",
+    "url": "/static/js/main.09bbe951.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "8317f9c8fa77393deb8d",
+    "revision": "3d654cd720534ac44f93",
     "url": "/static/css/2.e8cbe989.chunk.css"
   },
   {
-    "revision": "8317f9c8fa77393deb8d",
-    "url": "/static/js/2.8317f9c8.chunk.js"
+    "revision": "3d654cd720534ac44f93",
+    "url": "/static/js/2.3d654cd7.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
@@ -52,10 +52,6 @@ self.__precacheManifest = [
     "url": "/static/media/pic1.a6899fb5.svg"
   },
   {
-    "revision": "cc664e00584591261681d56789f736e7",
-    "url": "/static/media/facebook.cc664e00.svg"
-  },
-  {
     "revision": "3683b7b541f3468a4ca6b316a1621174",
     "url": "/static/media/telegram.3683b7b5.svg"
   },
@@ -76,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/reddit.05a38a65.svg"
   },
   {
-    "revision": "1ce3619cfe2f6cac98ec78689332154f",
+    "revision": "d999bfb98165f2c8bce4905cc0fc74ca",
     "url": "/index.html"
   }
 ];
